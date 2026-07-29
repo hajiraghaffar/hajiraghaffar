@@ -20,3 +20,4 @@ Backend: Python + TensorFlow + Node.js REST API
 Frontend: React.js + Tailwind | Backend: Node.js + Express (25+ APIs) + JWT auth 
 Database: MongoDB Atlas | Deployed: Vercel + Render 
 🔗 [Live Demo](https://admission-system.vercel.app) | [Source Code](https://github.com/hajira-ghaffar/admission-system) --- 📊 GitHub Stats ![Hajira's GitHub stats](https://github-readme-stats.vercel.app/api?username=hajira-ghaffar&show_icons=true&theme=tokyonight&hide_border=true) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hajira-ghaffar&layout=compact&theme=tokyonight&hide_border=true) 
+--- ⚡ *"I design in Figma, build in React/Angular, ship with Node.js — frontend to backend, solo."*
