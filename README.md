@@ -1,12 +1,31 @@
-# Hi, I'm Hajira Ghaffar 👋
-# Software Engineer | Full-Stack Developer | Angular Developer | React Developer 
- Built: **AI Voice Detector** (Python + TensorFlow + React) — solo, frontend to backend  
- Built: **University Admission System** (React + Node.js + MYSQL) — solo, fully deployed 
- Based in Gujrat, Pakistan (UTC+5) 
- Open to remote worldwide 
-Ask me about: React, Angular, Node.js, Figma, REST APIs, MongoDB, MYSQL 
-Reach me: hajra.ghaffar19@email.com 
-Portfolio: [hajira.vercel.app](https://hajira.vercel.app) 
+<div align="center">
+  
+  #   Hajira Ghaffar💻
+  
+  ### Software Engineer | Full-Stack Developer | React | Angular | AI Enthusiast
+  
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://hajira-portfolio.vercel.app)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hajira-ghaffar)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hajira-ghaffar)
+  [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hajira.ghaffar@email.com)
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&random=false&width=600&lines=Building+Scalable+Web+Applications;React+%2B+Angular+%2B+Node.js;AI+%26+ML+Enthusiast;Design+%26+Develop+%E2%86%92+Deploy" alt="Typing Animation" />
+  
+</div>
+
+---
+
+## 🚀 About Me
+
+> *"I design in Figma, build with React/Angular, ship with Node.js — frontend to backend, solo."*
+
+Hey there! 👋 I'm **Hajira Ghaffar**, a passionate **Software Engineer** who loves turning complex problems into elegant, scalable solutions. Whether it's crafting pixel-perfect UIs or architecting robust backends, I bridge the gap between design and functionality.
+
+- 🎯 **Specialization**: Full-Stack Development with React, Angular & Node.js
+- 🤖 **Passionate about**: AI/ML integration in web applications
+- 🎨 **Design-first mindset**: I prototype in Figma before writing a single line of code
+- 🌱 **Currently exploring**: Advanced ML models & Cloud Architecture
+
 
 ##  Tech Stack
 
