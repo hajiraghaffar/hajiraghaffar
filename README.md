@@ -1,8 +1,9 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:4c1d95,100:0d0221&height=220&section=header&text=Hajira%20Ghaffar&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
   
-  ### Software Engineer | Full-Stack Developer | React | Angular | AI Enthusiast
-  
+  <a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&random=false&width=700&height=60&lines=Software+Engineer+%F0%9F%92%BB;Full-Stack+Developer+%F0%9F%9A%80;React+%7C+Angular+%7C+Node.js+%E2%9A%A1;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Building+Real-Time+Web+Apps+%F0%9F%8C%90" alt="Typing SVG" />
+</a>
   [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://hajira-portfolio-nu.vercel.app)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hajiraghaffar)
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hajiraghaffar)
