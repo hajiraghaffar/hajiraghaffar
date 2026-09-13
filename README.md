@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=blur&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hajira%20Ghaffar&fontSize=60&fontColor=ffffff&animation=blinking" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=egg&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hajira%20Ghaffar&fontSize=60&fontColor=ffffff&animation=twinkling" width="100%"/>
   
   ### Software Engineer | Full-Stack Developer | React | Angular | AI Enthusiast
   
